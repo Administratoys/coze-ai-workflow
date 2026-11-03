@@ -9,3 +9,4 @@ This is an AI workflow built on the Coze platform, integrating LLM APIs and Prom
 
 *(Note: Due to occasional network fluctuations on the cloud platform, screenshots are provided below for demonstration.)*
 
+![Coze Workflow Demo](demo.png)
